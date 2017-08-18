@@ -1,0 +1,8 @@
+polo|2017/08/18 19:23:15|5|6|roseau
+Tulus|2017/08/18 20:35:53|5|5|taipei
+monia|2017/08/18 20:42:46|3|1|podgorica
+lola|2017/08/18 20:43:22|17|3|brasilia
+karol|2017/08/18 20:44:32|2|1|freetown
+Robert|2017/08/18 20:44:49|4|1|amsterdam
+Ula|2017/08/18 20:46:12|8|1|banjul
+tomek|2017/08/18 23:18:53|7|3|apia
